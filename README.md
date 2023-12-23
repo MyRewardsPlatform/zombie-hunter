@@ -4,7 +4,7 @@ and you need a little fun in your life. ;-)
 
 ## Introduction
 
-Are you tired of pesky zombie processes haunting your system? Fear not! The Zombie Slayer is here to help you reclaim your system resources.
+Are you tired of pesky zombie processes haunting your system? Fear not! The Zombie Hunter is here to help you reclaim your system resources.
 
 ## Features
 
